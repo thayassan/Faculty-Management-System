@@ -26,9 +26,9 @@ faculty-management-system/
 │   ├── schema.sql        Table definitions
 │   └── sample_data.sql   Sample rows for local testing
 ├── docs/
-│   └── FMS-GroupXX.pdf   (add your team documentation here)
+│   └── FMS-GroupXX.pdf   
 ├── demo/
-│   └── demo_video.mp4    (or a link to your demo video)
+│   └── demo_video.mp4   
 ├── .gitignore
 └── README.md
 ```
