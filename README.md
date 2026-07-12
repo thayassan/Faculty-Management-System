@@ -26,7 +26,7 @@ faculty-management-system/
 │   ├── schema.sql        Table definitions
 │   └── sample_data.sql   Sample rows for local testing
 ├── docs/
-│   └── FMS-GroupXX.pdf   
+│   └── FMS-GroupO.pdf   
 ├── demo/
 │   └── demo_video.mp4   
 ├── .gitignore
