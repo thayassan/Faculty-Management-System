@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+out/
+bin/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local config / secrets (if you externalize DB credentials)
+config.properties
