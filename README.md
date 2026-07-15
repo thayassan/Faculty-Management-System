@@ -76,15 +76,3 @@ java -cp "out:lib/mysql-connector-j-8.x.x.jar" com.faculty.main.Main
 - **Lecturer module** — view/edit profile, view timetable, view teaching courses
 - **Admin module** — full CRUD for Students, Lecturers, Courses, Departments, Degrees
 
-## Notes for Your Team
-
-- This scaffold implements the required MVC + DAO structure and every
-  feature listed in the assignment brief with a working UI, so you can run
-  it, demo it, and extend it further (e.g. add password hashing, richer
-  validation, or nicer dialogs) as your team sees fit.
-- Passwords are stored in plain text in this starter for simplicity —
-  consider hashing them (e.g. with BCrypt) before submission if your rubric
-  expects it.
-- Update `docs/FMS-GroupXX.pdf` with each member's work and student numbers,
-  and add your demo video under `demo/` (or a link) before submission.
-- Rename `FMS-GroupXX` references throughout to your actual group number.
